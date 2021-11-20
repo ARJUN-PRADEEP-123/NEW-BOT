@@ -12,33 +12,41 @@ from .Channel import (
 
 HELP = """
 Basic Commads
+⚡ /start :- check am Alive
 
-/start :- check am Alive
+⚡ Bot Owner Can Only Acess
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+⚡ /broadcast Replay Any Message or Media 
+
+⚡ /stats user Status
+
+⚡ /ban_user  click ban_user more info
+
+⚡ /unban_user click unban_user more info
+
+⚡ /banned_users Banned User Details
+
+⚡ /total How Many Files Added In Database
+
+⚡ /logger  Get Logs
+
+⚡ /delete Delete File From Database
 
 """
 
 ABOUT = """
-➥ Name :  Selena
+⟿ Name         :  EVOLET
 
-➥ Full Name :  Selena Gomez
-
-➥ Developer :  Arjun Pradeep
+⟿ Developer    :  Arjun Pradeep
     
-➥ Creator : [Arjun Pradeep](https://t.me/Arjunbots)
+⟿ Creator      : [Arjun Pradeep](https://t.me/Arjunbots)
 
-➥ Language : Python3
+⟿ Support      : [Support my boss](https://t.me/Movies_Centre_Main)
 
-➥ Library : Pyrogram Asyncio 1.13.0
+⟿ Source       : [Evolet](https://github.com/ARJUN-PRADEEP-123/EVOLET)
 
-➥ Join Channel : [Click Me](https://t.me/squid_game_full_eps)
+⟿ Created for  : [Movies Centre Group](https://t.me/movies_centre_garage_lux)
+   
+⟿ Add me       : [Contact](https://t.me/Arjunbots)
+   
 """
