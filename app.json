@@ -1,7 +1,7 @@
 {
-    "name": "Auto Filter Bot V3",
-    "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "name": "Evolet",
+    "description": "Evolet",
+    "logo":"https://telegra.ph/file/9098948529ceea3c61a5d.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/ARJUN-PRADEEP-123/SALENA",
+    "repository": "https://github.com/ARJUN-PRADEEP-123/EVOLET.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -50,7 +50,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
+            "value": "I am EVOLET",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -79,7 +79,7 @@
         },
         "BOT_NAME": {
             "description": "Name of the database in mongoDB ",
-            "value": "SALENA"
+            "value": "EVOLET"
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
