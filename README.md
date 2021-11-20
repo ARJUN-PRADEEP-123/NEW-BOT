@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="EVOLET">
+</p>
+<h1 align="center">
+  <b>EVOLET</b>
+</h1>
+
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
